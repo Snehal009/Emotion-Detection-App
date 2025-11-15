@@ -1,6 +1,6 @@
 
 
-# 💬 Emotion Detection App (NLP Project)
+# 💬 Emotion Detection App 
 
 A simple and beautiful **Emotion Detection Web App** built using **Python, NLP, Machine Learning, and Streamlit**.
 The app detects the **emotion** expressed in a given text (e.g., joy, anger, sadness, fear, love).
